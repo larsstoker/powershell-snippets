@@ -47,5 +47,3 @@ function Get-SMARTData {
 		}
 	}
 }
-
-Get-SMARTData
